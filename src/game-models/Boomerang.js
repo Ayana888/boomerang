@@ -22,7 +22,7 @@ class Boomerang {
     this.moveRight();
     setTimeout(() => {
       this.moveLeft();
-    }, 1000);
+    }, 2000);
   }
 }
 
