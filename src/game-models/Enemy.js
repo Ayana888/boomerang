@@ -30,7 +30,7 @@ class Enemy {
   }
 
   die() {
-    this.position = "?";
+    this.position = "💀";
     console.log("Enemy is dead!");
     process.exit();
   }
